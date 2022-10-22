@@ -1,0 +1,69 @@
+body{
+    background-color: black;
+    margin: 0;
+    position:relative;  
+}
+.cuerpo{
+    background-color: white;
+    width: 350px; 
+    height: 230;
+    margin:auto;
+    margin-top: 45px;
+     
+}
+.Encabezado{
+    display: flex;
+    
+    width: 100%; 
+    justify-content: space-between;
+    align-items: center;
+}
+img{
+    height: 20px;
+    margin: 10px;
+}
+.left{
+    display: flex;
+    align-items: center;
+}
+h3{
+    margin-left: 3px;
+    font-size: 10px;
+}
+#pollo{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.imagen{
+    display: flex;
+    height: 270px;
+    width:100%
+}
+.logos{
+    display: flex;
+    justify-content: space-between;
+}
+.textoabajo{
+    display: flex;
+    margin: 0;
+}
+p{
+    margin-left: 12px;
+    align-items: center;
+    width: 100%;
+    word-break:break-all;
+    margin-right: 12px;
+    font-size: 11px;
+}
+.down{
+    width: 100%;
+}
+
+    
+
+
+
+
+
